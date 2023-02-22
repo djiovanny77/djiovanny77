@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou buscando atuar na área Cloud e Devops
 - 🌱 Estudando Azure, Aws e Ferramentas Devops como Docker, Vagrant, Kubernetes, Terraform, entre outras...
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Sou formado em Direito, nada haver com T.I haha
+- ⚡ Fun fact: Sou formado em Direito, mas também me graduando em T.I haha
 
 <div align="center">
   <a href="https://www.linkedin.com/in/djiovanny-oliveira-032064234/">
