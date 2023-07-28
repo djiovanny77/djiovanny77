@@ -1,7 +1,7 @@
 ## Opa, eu sou o djiovanny77, aspirante a Arquiteto Cloud & Devops
 
-- 🔭 Atualmente estou buscando atuar na área Cloud e Devops
-- 🌱 Estudando Azure, Aws e Ferramentas Devops como Docker, Vagrant, Kubernetes, Terraform, entre outras...
+- 🔭 Atualmente estou buscando atuar na área de Programação/Desenvolvimento Web e Cloud
+- 🌱 Estudando Azure, Html 5, Css 3, Javascript, React.js, jquery, bootstrap 4, node.js, next.js e SQL
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Sou formado em Direito, mas também me graduando em T.I haha
 
