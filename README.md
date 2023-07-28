@@ -1,7 +1,7 @@
 ## Opa, eu sou o djiovanny77, futuro Desenvolvedor Web e Cloud 
 
 - 🔭 Atualmente estou buscando atuar na área de Programação/Desenvolvimento Web e Cloud
-- 🌱 Estudando Azure, Html 5, Css 3, Javascript, React.js, jquery, bootstrap 4, node.js, next.js e SQL
+- 🌱 Estudando Azure, Docker, Html 5, Css 3, Javascript, React.js, jquery, bootstrap 4, node.js, next.js e SQL
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Sou formado em Direito, mas também me graduando em T.I haha
 
